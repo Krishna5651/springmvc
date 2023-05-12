@@ -7,6 +7,9 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This is class for Dpomain
+ */
 public class StudentDao {
     JdbcTemplate jdbcTemplate;
 
